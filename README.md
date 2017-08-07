@@ -4,11 +4,11 @@ This workshop was conducted by Robert Schick from Duke University (https://nicho
 
 # Some key papers discussed on the importance of reproducible science:
 
-  Wilson, G., J. Bryan, K. Cranston, J. Kitzes, L. Nederbragt, and T. K. Teal. 2017. Good enough practices in scientific computing. PLOS        Computational Biology 13:e1005510; http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+1.  **Wilson, G.**, J. Bryan, K. Cranston, J. Kitzes, L. Nederbragt, and T. K. Teal. 2017. *Good enough practices in scientific computing*. PLOS Computational Biology 13:e1005510; http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
   
-  Stodden, V., M. McNutt, D. H. Bailey, E. Deelman, Y. Gil, B. Hanson, M. A. Heroux, J. P. A. Ioannidis, and M. Taufer. 2016. Enhancing        reproducibility for computational methods. Science 354:1240-1241; https://web.stanford.edu/~vcs/papers/ERCM2016-STODDEN.pdf
+2.  **Stodden, V.**, M. McNutt, D. H. Bailey, E. Deelman, Y. Gil, B. Hanson, M. A. Heroux, J. P. A. Ioannidis, and M. Taufer. 2016. *Enhancing reproducibility for computational methods*. Science 354:1240-1241; https://web.stanford.edu/~vcs/papers/ERCM2016-STODDEN.pdf
 
-  Leek, J. T., and R. D. Peng. 2015. Opinion: Reproducible research can still be wrong: Adopting a prevention approach. Proceedings of the      National Academy of Sciences 112:1645-1646; http://www.pnas.org/content/112/6/1645
+2.  **Leek, J. T.**, and R. D. Peng. 2015. *Opinion: Reproducible research can still be wrong: Adopting a prevention approach*. Proceedings of the National Academy of Sciences 112:1645-1646; http://www.pnas.org/content/112/6/1645
 
 # Things to consider within a reproducibile workflow
 
