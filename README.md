@@ -10,7 +10,7 @@ This workshop was conducted by Robert Schick from Duke University (https://nicho
 
   Leek, J. T., and R. D. Peng. 2015. Opinion: Reproducible research can still be wrong: Adopting a prevention approach. Proceedings of the      National Academy of Sciences 112:1645-1646; http://www.pnas.org/content/112/6/1645
 
-# Things to consider given reproducibility
+# Things to consider within a reproducibile workflow
 
   Submitting data to a reputable DOI-issusing repo
   Submitting the code (if not too embarassed) to a reputable DOI-issusing repo
